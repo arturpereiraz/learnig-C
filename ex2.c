@@ -8,6 +8,6 @@ int main(){
   scanf("%s",nome);
   prinf("Digite sua idade:");
   scanf("%d", idade);
-  prinf("Seu nome é %s, sua idade é %d", nome, idade)
+  prinf("Seu nome é %s, sua idade é %d", nome, idade);
 
 }
