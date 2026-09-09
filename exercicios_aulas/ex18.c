@@ -12,6 +12,7 @@ int main (){
   erro:
     printf("Idade iválida");
     return 1;
+    //retorna código de erro 
     
   printf("Voçê tem %d anos", idade);
   
